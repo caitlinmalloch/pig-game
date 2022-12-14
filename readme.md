@@ -12,9 +12,9 @@ Pig Game is a dice game for 2 players. This game was built using JavaScript and 
 
 # Live Site
 
-https://pig-game-js-2022.netlify.app/
+https://pig-game-caitlin-malloch.netlify.app
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/f74d989b-12d6-4b10-ad8d-036ea0f80b23/deploy-status)](https://app.netlify.com/sites/pig-game-js-2022/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/42d351a6-e685-4b1c-83da-0b72ee55f446/deploy-status)](https://app.netlify.com/sites/pig-game-caitlin-malloch/deploys)
 
 # Game Instructions
 
